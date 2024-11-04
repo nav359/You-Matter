@@ -39,4 +39,3 @@ Technologies & Frameworks Used
 - Language: Swift
 - Frameworks: UIKit, Core Data, HealthKit, Firebase for real-time database and authentication
 - Third-Party Libraries: Alamofire for networking, Charts for graphical representation of health data
-![image](https://github.com/user-attachments/assets/be6ebc36-a0ed-4349-b405-0822d91ea2a9)
