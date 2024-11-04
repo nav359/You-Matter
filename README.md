@@ -2,6 +2,8 @@ You Matter App
 Overview
 The You Matter app is a comprehensive wellness platform designed to help users monitor and improve their physical and mental well-being. It offers features like activity tracking, hydration monitoring, and personalized health insights, all presented through an intuitive and engaging user interface.
 
+Download Link: https://apps.apple.com/in/app/you-matter-mind-body-wealth/id1636868769
+
 Key Features
 1. User Authentication
 - Mobile Number Login: Secure login with OTP verification for easy access.
