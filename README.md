@@ -1,4 +1,4 @@
-You Matter App - iOS Development Portfolio
+You Matter App
 Overview
 The You Matter app is a comprehensive wellness platform designed to help users monitor and improve their physical and mental well-being. It offers features like activity tracking, hydration monitoring, and personalized health insights, all presented through an intuitive and engaging user interface.
 
