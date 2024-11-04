@@ -2,14 +2,6 @@ You Matter App
 Overview
 The You Matter app is a comprehensive wellness platform designed to help users monitor and improve their physical and mental well-being. It offers features like activity tracking, hydration monitoring, and personalized health insights, all presented through an intuitive and engaging user interface.
 
-<img src="https://github.com/user-attachments/assets/47f8a427-e5ca-428d-a16d-31bff0c84793" alt="Mobile Screenshot" width="400">
-<img src="https://github.com/user-attachments/assets/0b91202b-7d48-4171-a6a9-5e3a1d8a8166" alt="Mobile Screenshot" width="400">
-<img src="https://github.com/user-attachments/assets/e5b86dfb-0774-42ae-ac6c-df740e285cc7" alt="Mobile Screenshot" width="400">
-<img src="https://github.com/user-attachments/assets/84ef2302-86f8-4371-a712-35426b80b5ab" alt="Mobile Screenshot" width="400">
-<img src="https://github.com/user-attachments/assets/c3e97cfa-c8dc-4044-a710-870adc1b2c1d" alt="Mobile Screenshot" width="400">
-<img src="https://github.com/user-attachments/assets/55e177c9-af0f-4907-b664-4211ed62d268" alt="Mobile Screenshot" width="400">
-<img src="https://github.com/user-attachments/assets/70901315-3f71-4fdf-94c7-6d8b72c04e11" alt="Mobile Screenshot" width="400">
-
 Key Features
 1. User Authentication
 - Mobile Number Login: Secure login with OTP verification for easy access.
@@ -47,4 +39,12 @@ Technologies & Frameworks Used
 - Language: Swift
 - Frameworks: UIKit, Core Data, HealthKit, Firebase for real-time database and authentication
 - Third-Party Libraries: Alamofire for networking, Charts for graphical representation of health data
+
+<img src="https://github.com/user-attachments/assets/47f8a427-e5ca-428d-a16d-31bff0c84793" alt="Mobile Screenshot" width="400">
+<img src="https://github.com/user-attachments/assets/0b91202b-7d48-4171-a6a9-5e3a1d8a8166" alt="Mobile Screenshot" width="400">
+<img src="https://github.com/user-attachments/assets/e5b86dfb-0774-42ae-ac6c-df740e285cc7" alt="Mobile Screenshot" width="400">
+<img src="https://github.com/user-attachments/assets/84ef2302-86f8-4371-a712-35426b80b5ab" alt="Mobile Screenshot" width="400">
+<img src="https://github.com/user-attachments/assets/c3e97cfa-c8dc-4044-a710-870adc1b2c1d" alt="Mobile Screenshot" width="400">
+<img src="https://github.com/user-attachments/assets/55e177c9-af0f-4907-b664-4211ed62d268" alt="Mobile Screenshot" width="400">
+<img src="https://github.com/user-attachments/assets/70901315-3f71-4fdf-94c7-6d8b72c04e11" alt="Mobile Screenshot" width="400">
 
